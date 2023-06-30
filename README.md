@@ -5,6 +5,6 @@
 - 📫 You can reach me on linkedin (linkedin.com/in/siid-sharma-989263181/) or by gmail (siid123ck@gmail.com) or 0433919514.
 
 <!---
-siid123ck/siid123ck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+siid123ck/siid123ck is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
